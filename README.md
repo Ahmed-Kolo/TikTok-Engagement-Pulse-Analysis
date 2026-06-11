@@ -1,4 +1,4 @@
-## Project Summary: TikTok Engagement Pulse - Time Series Analysis
+### Project Summary: TikTok Engagement Pulse - Time Series Analysis
 
 This project aimed to perform a Time Series Analysis on TikTok view count data within a Discovery-to-Action (DTA) framework to understand engagement patterns and inform content scheduling strategies. Due to the unavailability of the original dataset, a synthetic dataset reflecting typical TikTok view patterns (with trend, weekly seasonality, and noise) was generated for this analysis.
 
